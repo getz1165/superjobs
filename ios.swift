@@ -1,5 +1,5 @@
 import UIKit
 
 print("Hello World")
-button = UIButton()?
+var button = UIButton()?
 let a=button.text()
